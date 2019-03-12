@@ -51,6 +51,9 @@
             "value": null
         },
         "publishingUsername": {
+            "value": null  
+        },
+        "publishingPassword": {
             "value": null
         },
         "firewallRules_AllowAll_name": {
