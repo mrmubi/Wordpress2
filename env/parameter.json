@@ -50,6 +50,9 @@
         "databases_mysql_name": {
             "value": null
         },
+        "publishingUsername": {
+            "value": null
+        },
         "firewallRules_AllowAll_name": {
             "value": null
         },
